@@ -6,7 +6,7 @@ This is an arithmetic parser implemented in JavaScript. It's capable of parsing 
 ------------
 
 
-#### Features
+### Features
 - Evaluate arithmetic expressions.
 - Handle multiple operations: +, -, *, /, sum, avg, negate, atan, atan2.
 - Support for variables: x, y, z.
@@ -16,7 +16,7 @@ This is an arithmetic parser implemented in JavaScript. It's capable of parsing 
 
 
 
-#### Usage
+### Usage
 Here is a simple example on how to use the parser:
 ```javascript
 const expression = parse("2 * x - 3");
@@ -42,7 +42,7 @@ In this example, we first parse the expression "2x - 3" and then evaluate it wit
 
 ------------
 
-#### API
+### API
 The parser exposes the following main functions:
 
 - parse(string): Parses a string containing an arithmetic expression and returns an object representing the parsed expression.
@@ -60,7 +60,7 @@ Additionally, the parser provides the following helper functions:
 
 ------------
 
-#### Error Handling
+### Error Handling
 
 The parser includes an InputError class to report errors during parsing. If the input string cannot be parsed correctly, an InputError will be thrown with a message indicating what went wrong.
 
