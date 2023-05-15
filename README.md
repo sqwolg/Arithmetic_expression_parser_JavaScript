@@ -77,7 +77,7 @@ Invalid unary (0 args)   Error: Incorrect number of elements, LESS, than we need
 Invalid unary (2 args)   Error: Incorrect number of elements, MORE, than we need (1): (negate x)
 Invalid binary (0 args)  Error: Incorrect number of elements, LESS, than we need (0): (+ )
 Invalid binary (1 args)  Error: Incorrect number of elements, LESS, than we need (1): (+ x)
-Invalid binary (3 args)  Error: Incorrect number of elements, MORE, than we need (2): (+ x y)
+Invalid binary (3 args)  Error: Incorrect number of elements, MORE, than we need (2): (+ x y z)
 Variable op (0 args)     Error: Unknown operation: -> x <- (x )
 Variable op (1 args)     Error: Unknown operation: -> x <- (x 1)
 Variable op (2 args)     Error: Unknown operation: -> x <- (x 1 2)
