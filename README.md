@@ -1,4 +1,4 @@
-## Arithmetic parser on JavaScript
+# Arithmetic parser on JavaScript
 
 
 This is an arithmetic parser implemented in JavaScript. It's capable of parsing and evaluating arithmetic expressions involving the basic arithmetic operations like addition, subtraction, multiplication, division, and also more complex operations like sum, average, negate, arctangent (atan, atan2). The parser can handle variables x, y, and z in the expressions.
